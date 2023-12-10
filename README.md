@@ -1,9 +1,10 @@
-![image](https://github.com/chriskhawaja/azure-network-protocols/assets/153021794/1d10087c-82b1-437a-a347-e8eefba67d70)
+![image](https://github.com/chriskhawaja/vpn/assets/153021794/52ceb331-ab99-4384-bf88-1312540740af)
 
 
 
 
-<h1>Analyzing Network Traffic and Implementing Network Security Groups</h1>
+
+<h1>Setting up a Virtual Private Network in a Virtual Machine</h1>
 
 <h2>Project Summary</h2>
 This project involves the creation of two virtual machines and the utilization of Wireshark to examine various network traffic. Additionally, Network Security Groups will be accessed via Azure to allow or block ICMP traffic. Completion of this project aims to give the user a better understanding of ports, network protocols, remote desktop protocol, command line use, and a basic proficiency of a network analyzer tool, such as Wireshark.
