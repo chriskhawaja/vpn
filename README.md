@@ -68,7 +68,7 @@ This project involves the creation of a a virtual machine and Proton VPN to bett
 - Step 7
   - We are now connected to a VPN server in Japan
   - Visit websites such as www.google.com and www.netflix.com to see the difference
-    - You can note the difference and language and the presentation of different Japanese shows
+    - You can note the differences in language and the presentation of different Japanese shows
 ![image](https://github.com/chriskhawaja/vpn/assets/153021794/0f800a58-fe7c-42e6-b401-5a8ef8d0cef3)
 ![image](https://github.com/chriskhawaja/vpn/assets/153021794/a95d70b3-a831-497b-99c4-ddf84b597e5f)
 ![image](https://github.com/chriskhawaja/vpn/assets/153021794/12975747-ccbc-4555-8eb9-3a44a26b14eb)
