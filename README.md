@@ -11,6 +11,7 @@ This project involves the creation of a a virtual machine and Proton VPN to bett
 <h2>Platforms and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machine Deployment)
+- Notepad (For keeping track of the changes in our IP Addresses)
 - Azure Resource Group (Contains VM)
 - RDP (Remotely Accessing Virtual Machines)
   - TCP Port 3389
