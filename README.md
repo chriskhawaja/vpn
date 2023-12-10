@@ -82,7 +82,7 @@ This project involves the creation of a a virtual machine and Proton VPN to bett
 
 - Step 9
   - Feel free to select "change server" to access different VPN servers around the world
-  - As you can see, it now shows we have the IP address of a location in the Netherlands
-    - However, we are truly in a different location
+  - As you can see, after changing the VPN server, it now shows we have the IP address of a location in the Netherlands
+    - However, we are not actually in the Netherlands
   ![image](https://github.com/chriskhawaja/vpn/assets/153021794/fdb94271-8d59-4154-bd63-572e2ef56522)
 
