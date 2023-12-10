@@ -77,6 +77,7 @@ This project involves the creation of a a virtual machine and Proton VPN to bett
 - Step 8
   - Be sure to search on google for "what is my ip address?"
     - Notice the change in IP address from our original VM IP address
+    - Remember, this is because we are connected to a VPN server in Japan
 ![image](https://github.com/chriskhawaja/vpn/assets/153021794/0bd495e1-52cd-40be-b281-d150ff296e8f)
 
 - Step 9
