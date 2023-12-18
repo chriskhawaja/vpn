@@ -7,7 +7,7 @@
 <h1>Setting up a Virtual Private Network in a Virtual Machine</h1>
 
 <h2>Project Summary</h2>
-This project involves the creation of a a virtual machine and Proton VPN to better understand VPN fundamentals. Additionally, we will note the changes of our IP address before and after we connect to a VPN server. 
+This project involves the creation of a virtual machine and Proton VPN to better understand VPN fundamentals. Additionally, we will note the changes of our IP address before and after we connect to a VPN server. 
 <h2>Platforms and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machine Deployment)
