@@ -4,7 +4,7 @@
 
 
 
-<h1>Setting up a Virtual Private Network in a Virtual Machine</h1>
+<h1>Implementing a Virtual Private Network in a Virtual Machine</h1>
 
 <h2>Project Summary</h2>
 This project involves the creation of a virtual machine and utilization of Proton VPN to better understand VPN fundamentals. Additionally, we will note the changes of our IP address before and after we connect to a VPN server. 
